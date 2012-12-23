@@ -1,0 +1,11 @@
+
+PODS:
+- SRMonthPicker (0.2.6)
+
+DEPENDENCIES:
+- SRMonthPicker
+
+SPEC CHECKSUMS:
+  SRMonthPicker: 690af3ad4df72f48b368ea1c0ebdb5623b36c100
+
+COCOAPODS: 0.16.0
