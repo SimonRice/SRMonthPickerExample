@@ -2,8 +2,8 @@
 //  main.m
 //  SRMonthPickerExample
 //
-//  Created by Simon Rice on 23/12/2012.
-//  Copyright (c) 2012 Simon Rice. All rights reserved.
+//  Created by Simon Rice on 27.1.2013.
+//  Copyright (c) 2013 Simon Rice. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
