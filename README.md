@@ -1,5 +1,7 @@
 # SRMonthPicker Example
 
+[![Build Status](https://travis-ci.org/simonrice/SRMonthPickerExample.png)](https://travis-ci.org/simonrice/SRMonthPickerExample)
+
 A very simple example project for [SRMonthPicker](https://github.com/simonrice/SRMonthPicker), demonstrating many of the properties & methods available to use.  This particular example uses Storyboards, but SRMonthPicker can work equally well with legacy Interface Builder or via code.
 
 ## Compiling
